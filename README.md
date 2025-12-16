@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+<pre>
+  🔭 What do you do?
+AI is my passion 🤩. I'm astonished how many stunning stuff can be made out of data and algorithms. I'm HCIA-AI (Huawei) certified also.
+I'm a data scientist currently working with data 🗄️ from the Oil & Gas 🛢️ industry. My main focus is creating AI models using MLOps methodology.
+I find Computer Vision exciting. My projects with it can be found in my Github Webpage
+🌱 What you've been doing lately?
+I just released my first package. If you work with robotic simulation using CoppeliaSim, you can check the package out or read a briefing on Medium!
+I'm constantly testing new, random ideas and talking about them on my Medium account. If you want to know what I've been working with lately, you will certainly find something about it there.
+⚡ Tell me more about you as a person, not as a student or something...
+I love art 🎨 in general. Generative Art with AI amazes me. I'm used to play with some of these technologies (DALL-E, Midjourney, etc) and post the results on my Instagram and Flickr accounts. If you are curious, but not certain of what it means, here is one of my experiments to get you interested in (hopefully).
+I learned english when I was a teenager and started learning japanese some years ago. While I'm proficient with the former, the latter is an work in progress 😅
+</pre>
+
 <!--
 **minocosa/minocosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
